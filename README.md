@@ -1,5 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/905896a1-7ce8-4e0d-b409-a4881c2caa4f)
 
+:baby:	I'am a bigenner programmer
 
 :computer: I’m currently learning ML 
 
